@@ -1,0 +1,38 @@
+/* CSS Document */
+*{
+	background-color: #96ceb4;
+}
+
+button {
+	font-size:30px;
+	background-color:#e06377;
+}
+
+h1,h1 {
+	color:#d96459;
+}
+
+#signup{
+	  background-color:#ffeead;
+      color:#ffcc5c
+
+;
+
+}
+span{
+	color:#ffcc5c;
+}
+
+.tag{
+	background-color:#ff6f69;
+	font-size: 16px;
+}
+.post a {
+	color:#622569;
+}
+footer a{
+	color:#034f84;
+}
+input + button{
+	background-color:#36486b;
+}
